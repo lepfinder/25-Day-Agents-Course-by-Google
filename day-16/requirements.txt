@@ -1,0 +1,11 @@
+# Day 16: LangGraph + A2A 额外依赖
+# 这些依赖是 Day 16 特有的，需要额外安装
+
+# LangGraph - 图结构 Agent 框架
+langgraph>=0.2.0
+
+# LangChain Google Gemini 集成
+langchain-google-genai>=2.0.0
+
+# LangChain 核心
+langchain-core>=0.3.0
