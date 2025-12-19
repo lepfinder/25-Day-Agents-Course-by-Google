@@ -59,9 +59,25 @@ cp .env.example .env
 
 | Day | Topic | Status |
 |-----|-------|--------|
-| 01 | Introduction to AI Agents | 🚧 In Progress |
-| 02 | TBD | ⏳ Pending |
-| ... | ... | ... |
+| 01 | Introduction to AI Agents | ✅ Done |
+| 02 | YAML Agent Configuration | ✅ Done |
+| 03 | Gemini Search Agent | ✅ Done |
+| 04 | Agent Engine Deployment | ✅ Done |
+| 05 | Telemetry & Tracing | ✅ Done |
+| 06 | ADK IDE Integration | ✅ Done |
+| 07 | Code Execution | ✅ Done |
+| 08 | Context Management | ✅ Done |
+| 09 | Session Rewind | ✅ Done |
+| 10 | Context Caching & Compaction | ✅ Done |
+| 11 | Google Managed MCP | ✅ Done |
+| 12 | Multimodal Streaming Agents | ✅ Done |
+| 13 | Interactions API | ✅ Done |
+| 14 | A2A Remote Agents | ✅ Done |
+| 15 | Agent-to-UI | ✅ Done |
+| 16 | LangGraph + A2A | ✅ Done |
+| 17 | Gemini 3 Flash Thinking Levels | ✅ Done |
+| 18 | Cloud API Registry + ADK | ✅ Done |
+| 19-25 | Advanced Topics | ⏳ Pending |
 
 ## Running Daily Exercises
 
